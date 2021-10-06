@@ -1,0 +1,194 @@
+/* ID */
+#title{
+  background-color: #345B63;
+  color: #D4ECDD;
+  width: 100%;
+}
+#cta{
+  background-color: #345B63;
+  color: #D4ECDD;
+  width: 100%;
+  text-align: center;
+  padding: 7% 15%;
+}
+
+#footer{
+  text-align: center;
+  padding: 7% 15%;
+}
+#features{
+  padding: 7% 15%;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  background-color: #fff;
+  position: relative;
+  z-index: 1 ;
+}
+#pricing{
+  margin-right: 20px;
+padding-top: 90px;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  text-align: center;
+}
+#press{
+  background-color: #903749;
+  text-align: center;
+  padding-bottom: 3%;
+}
+#testimonials{
+  text-align: center;
+
+  background-color: #903749;
+  color: white;
+}
+
+/* pics */
+.iphone{
+  width: 549px;
+  transform: rotate(9deg);
+  position: absolute;
+  left: 15%;
+  top: -80px;
+}
+.icon{
+  color: #BBDED6;
+  padding-bottom: 20px;
+}
+.icon:hover{
+  color: #903749;
+}
+.dp{
+  width: 90px;
+  height: 130px;
+
+}
+.Instagram{
+color: #833AB4;
+}
+.facebook{
+color: #1100ff;
+}
+.twitter{
+  color: #00e1ff;
+}
+.mail{
+  color: gold;
+}
+.anime{
+  padding-right: 20px;
+}
+
+.ryuk{
+  border-radius: 500px;
+  width: 20%;
+
+  margin-bottom: 50px;
+  margin-top: 100px;
+}
+.madara{
+  border-radius: 500px;
+  width: 20%;
+
+  margin-bottom: 50px;
+  margin-top: 100px;
+}
+
+.press-logo{
+  width: 14%;
+margin: 0px 40px 50px;
+}
+.Download-btn{
+margin: 7% 5% 7% 0;
+}
+.social {
+  margin: 30px 20px;
+}
+.social:hover{
+color: #903749;
+}
+/* TEXT */
+.find{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 5rem;
+}
+.h1 {  font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Ubuntu Condensed', sans-serif;
+font-size: 3.2rem;
+line-height: 1.5;}
+.container-fluid{
+  padding: 3% 15%;
+}
+h3{
+  font-family: 'Montserrat-bold'
+  color: black;
+}
+p{
+    color: #27496D;
+}
+h2{
+  font-family: 'Montserrat-Bold';
+  font-size: 1.7rem;
+  line-height: 1.5;
+}
+h5{
+  font-family: 'Montserrat-Bold';
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+.if{
+  font-family: 'Montserrat-Bold';
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+/* navbars */
+.easy{
+  text-align: center;
+padding: 10px 20px;
+}
+
+.navbar{
+  padding: 0 0 4.5rem;
+
+}
+.nav-item{
+  padding: 0 8px;
+}
+.nav-link{
+margin-bottom: 50px;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Ubuntu Condensed', sans-serif;
+font-size: 1.9rem;
+line-height: 1.5;
+}
+
+.carousel-item{
+  padding: 7% 15%;
+}
+
+
+
+.fav{
+  margin-bottom: 50px;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 1.9rem;
+  line-height: 1.5;
+}
+
+/* Meida */
+
+@media (max-width: 1028px) {
+  #title{ text-align: center;
+  }
+  .iphone{
+    position: static;
+    transform: rotate(0);
+  }
+
+}
