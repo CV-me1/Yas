@@ -184,11 +184,45 @@ line-height: 1.5;
 /* Meida */
 
 @media (max-width: 1028px) {
-  #title{ text-align: center;
-  }
-  .iphone{
-    position: static;
-    transform: rotate(0);
+  #title {
+    text-align: center;
   }
 
+  .h1{
+    font-size: 4em;
+  }
+  .nav-link{
+    font-size: 3.2em;
+  }
+.btn{
+  font-size: 2.5em;
+}
+.h3{
+  font-size: 2em;
+}
+.char{
+    font-size: 1.7em;
+}
+  .iphone {
+    position: static;
+    transform: rotate(20);
+  }
+  .h22{
+    font-size: 2em;
+  }
+.h5 {
+  font-size: 1.9em;
+}
+.fav{
+  font-size: 3em;
+}
+.h55{
+  font-size: 1.8em;
+}
+.pa{
+  font-size: 1.5em;
+}
+.if{
+    font-size: 2.2em;
+  }
 }
