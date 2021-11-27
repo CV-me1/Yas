@@ -205,7 +205,7 @@ line-height: 1.5;
 }
   .iphone {
     position: static;
-    transform: rotate(20);
+    transform: rotate(0);
   }
   .h22{
     font-size: 2em;
